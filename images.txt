@@ -1,1 +1,1 @@
-Docker-UniFi-Controller
+jacobalberty/unifi
